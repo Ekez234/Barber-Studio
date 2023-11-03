@@ -1,0 +1,10 @@
+Facebook
+<i class="bi bi-facebook"></i>
+Twitter
+<i class="bi bi-twitter"></i>
+Instagram
+<i class="bi bi-instagram"></i>
+Shield halved
+<i class="fa-solid fa-shield-halved"></i>
+Linkedin
+<i class="bi bi-linkedin"></i>
